@@ -1,0 +1,18 @@
+[2023-07-21 22:15:41.776] [exthost] [info] Extension host with pid 311 started
+[2023-07-21 22:15:41.780] [exthost] [error] Error: EEXIST: file already exists, open '/config/data/User/workspaceStorage/3759015c/vscode.lock'
+[2023-07-21 22:15:41.786] [exthost] [info] Lock '/config/data/User/workspaceStorage/3759015c/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2023-07-21 22:15:41.791] [exthost] [info] Lock '/config/data/User/workspaceStorage/3759015c/vscode.lock': The lock does not look stale, elapsed: 430 ms, giving up.
+[2023-07-21 22:15:41.795] [exthost] [info] Lock '/config/data/User/workspaceStorage/3759015c-1/vscode.lock': Lock acquired.
+[2023-07-21 22:15:42.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-07-21 22:15:42.288] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-07-21 22:15:42.294] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-07-21 22:15:44.037] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-07-21 22:15:44.141] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-07-21 22:15:44.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-07-21 22:15:44.631] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-07-21 22:15:44.637] [exthost] [info] Eager extensions activated
+[2023-07-21 22:15:55.973] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+[2023-07-21 22:15:56.921] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2023-07-21 22:16:18.128] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2023-07-21 22:16:18.595] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2023-07-21 22:16:19.886] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter

@@ -1,0 +1,77 @@
+[2023-07-21T16:44:59.446Z] info  code-server 4.7.0 7f108c61ab670ccaae4cfde5de2909c003db1ce8
+[2023-07-21T16:44:59.447Z] info  Using user-data-dir ~/data
+[2023-07-21T16:44:59.465Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-07-21T16:44:59.465Z] info  HTTP server listening on http://0.0.0.0/ 
+[2023-07-21T16:44:59.465Z] info    - Authentication is enabled
+[2023-07-21T16:44:59.465Z] info      - Using password from $PASSWORD
+[2023-07-21T16:44:59.465Z] info    - Not serving HTTPS 
+[22:15:02] Extension host agent started.
+[22:15:07] [172.18.0.2][26f967e4][ManagementConnection] New connection established.
+[22:15:10] [172.18.0.2][fcf9d673][ExtensionHostConnection] New connection established.
+[22:15:10] [172.18.0.2][fcf9d673][ExtensionHostConnection] <204> Launched Extension Host Process.
+[22:15:33] [172.18.0.2][30da7b2e][ManagementConnection] New connection established.
+[22:15:36] [172.18.0.2][398da42e][ExtensionHostConnection] New connection established.
+[22:15:36] [172.18.0.2][398da42e][ExtensionHostConnection] <311> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[22:15:50] Getting Manifest... batisteo.vscode-django
+[22:15:50] Getting Manifest... wholroyd.jinja
+[22:15:50] Getting Manifest... formulahendry.code-runner
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 30 chars and 1 size events
+[22:15:51] Getting Manifest... ms-python.python
+[22:15:51] Installing extension: formulahendry.code-runner
+[22:15:51] Installing extension: wholroyd.jinja
+[22:15:51] Installing extension: batisteo.vscode-django
+[22:15:52] Installing extension: ms-python.python
+[22:15:54] Downloaded extension: wholroyd.jinja /config/data/CachedExtensionVSIXs/wholroyd.jinja-0.0.8-universal
+[22:15:54] Extracted extension to /config/extensions/.7bba7d73-2f09-41b2-9bbb-06ee922d2e16: wholroyd.jinja
+[22:15:54] Renamed to /config/extensions/wholroyd.jinja-0.0.8-universal
+[22:15:54] Extracting completed. wholroyd.jinja
+[22:15:54] Extension installed successfully: wholroyd.jinja
+[22:15:54] Downloaded extension: batisteo.vscode-django /config/data/CachedExtensionVSIXs/batisteo.vscode-django-1.8.0-universal
+[22:15:54] Extracted extension to /config/extensions/.ead745aa-abc1-4f3a-a351-97f488d68253: batisteo.vscode-django
+[22:15:54] Renamed to /config/extensions/batisteo.vscode-django-1.8.0-universal
+[22:15:54] Extracting completed. batisteo.vscode-django
+[22:15:54] Extension installed successfully: batisteo.vscode-django
+[22:15:54] Downloaded extension: formulahendry.code-runner /config/data/CachedExtensionVSIXs/formulahendry.code-runner-0.12.0-universal
+[22:15:54] Getting Manifest... batisteo.vscode-django
+[22:15:55] Extracted extension to /config/extensions/.0f0e9b38-e1c5-43f7-b019-5cba7aa12e93: formulahendry.code-runner
+[22:15:55] Renamed to /config/extensions/formulahendry.code-runner-0.12.0-universal
+[22:15:55] Extracting completed. formulahendry.code-runner
+[22:15:55] Extension installed successfully: formulahendry.code-runner
+[22:15:55] Getting Manifest... wholroyd.jinja
+[22:15:55] Getting Manifest... formulahendry.code-runner
+[22:15:56] Installing extension: batisteo.vscode-django
+[22:15:56] Getting Manifest... ms-python.python
+[22:15:56] Extension installed successfully: batisteo.vscode-django
+[22:15:56] Getting Manifest... ms-toolsai.jupyter
+[22:15:56] Installing extension: wholroyd.jinja
+[22:15:56] Installing extension: formulahendry.code-runner
+[22:15:57] Extension installed successfully: wholroyd.jinja
+[22:15:57] Extension installed successfully: formulahendry.code-runner
+[22:15:57] Extensions is already requested to install ms-python.python
+[22:15:59] Getting Manifest... ms-toolsai.jupyter-renderers
+[22:16:01] Getting Manifest... ms-toolsai.jupyter-keymap
+[22:16:02] Installing extension: ms-toolsai.jupyter
+[22:16:02] Installing extension: ms-toolsai.jupyter-renderers
+[22:16:02] Installing extension: ms-toolsai.jupyter-keymap
+[22:16:04] Downloaded extension: ms-toolsai.jupyter-keymap /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.1.0-universal
+[22:16:04] Extracted extension to /config/extensions/.e393bfe8-27f2-4e82-82da-5eb15f927b0c: ms-toolsai.jupyter-keymap
+[22:16:04] Renamed to /config/extensions/ms-toolsai.jupyter-keymap-1.1.0-universal
+[22:16:04] Extracting completed. ms-toolsai.jupyter-keymap
+[22:16:06] Downloaded extension: ms-toolsai.jupyter-renderers /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9-universal
+[22:16:06] Extracted extension to /config/extensions/.91efd9c1-24cc-4661-944f-0ee9865298aa: ms-toolsai.jupyter-renderers
+[22:16:06] Renamed to /config/extensions/ms-toolsai.jupyter-renderers-1.0.9-universal
+[22:16:06] Extracting completed. ms-toolsai.jupyter-renderers
+[22:16:07] Downloaded extension: ms-toolsai.jupyter /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.8.1002460559-universal
+[22:16:08] Extracted extension to /config/extensions/.b7eb4821-cfb9-48b0-a8c5-9ee51da94e33: ms-toolsai.jupyter
+[22:16:08] Renamed to /config/extensions/ms-toolsai.jupyter-2022.8.1002460559-universal
+[22:16:08] Extracting completed. ms-toolsai.jupyter
+[22:16:12] Downloaded extension: ms-python.python /config/data/CachedExtensionVSIXs/ms-python.python-2022.16.1-universal
+[22:16:15] Extracted extension to /config/extensions/.737e7abd-f997-41dc-9a3d-dfd3d12738e4: ms-python.python
+[22:16:15] Renamed to /config/extensions/ms-python.python-2022.16.1-universal
+[22:16:15] Extracting completed. ms-python.python
+[22:16:15] Extension installed successfully: ms-toolsai.jupyter-keymap
+[22:16:15] Extension installed successfully: ms-toolsai.jupyter-renderers
+[22:16:15] Extension installed successfully: ms-toolsai.jupyter
+[22:16:15] Extension installed successfully: ms-python.python

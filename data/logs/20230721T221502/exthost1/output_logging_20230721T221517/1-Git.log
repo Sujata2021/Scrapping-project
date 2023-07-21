@@ -1,0 +1,23 @@
+[2023-07-21T16:45:19.855Z] Log level: Info
+[2023-07-21T16:45:19.863Z] [info] Validating found git in: git
+[2023-07-21T16:45:19.903Z] [info] Using git 2.25.1 from git
+[2023-07-21T16:45:19.955Z] > git rev-parse --show-toplevel [33ms]
+[2023-07-21T16:45:19.969Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2023-07-21T16:45:19.978Z] [info] Open repository: /config/workspace
+[2023-07-21T16:45:19.998Z] > git status -z -uall [8ms]
+[2023-07-21T16:45:20.007Z] > git symbolic-ref --short HEAD [2ms]
+[2023-07-21T16:45:20.017Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2023-07-21T16:45:20.033Z] > git remote --verbose [2ms]
+[2023-07-21T16:45:20.034Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2023-07-21T16:45:20.050Z] > git config --get commit.template [1ms]
+[2023-07-21T16:45:20.062Z] > git status -z -uall [3ms]
+[2023-07-21T16:45:20.070Z] > git symbolic-ref --short HEAD [1ms]
+[2023-07-21T16:45:20.081Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+[2023-07-21T16:45:20.095Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2023-07-21T16:45:20.096Z] > git remote --verbose [2ms]
+[2023-07-21T16:45:20.106Z] > git config --get commit.template [1ms]
+[2023-07-21T16:45:21.248Z] > git check-ignore -v -z --stdin [2ms]
+[2023-07-21T16:45:21.591Z] > git show --textconv :new_pw_eng_scrap/app.py [10ms]
+[2023-07-21T16:45:21.593Z] > git ls-files --stage -- /config/workspace/new_pw_eng_scrap/app.py [3ms]
+[2023-07-21T16:45:21.603Z] > git cat-file -s e7039ea9503086cf86029da2789b31999657f7ac [1ms]
+[2023-07-21T16:45:22.212Z] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n21 -- /config/workspace/new_pw_eng_scrap/app.py [40ms]

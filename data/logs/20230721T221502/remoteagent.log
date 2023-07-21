@@ -1,0 +1,238 @@
+[2023-07-21 22:15:02.144] [remoteagent] [info] 
+
+
+
+
+[2023-07-21 22:15:02.145] [remoteagent] [info] Extension host agent started.
+[2023-07-21 22:15:07.023] [remoteagent] [info] [172.18.0.2][26f967e4][ManagementConnection] New connection established.
+[2023-07-21 22:15:10.864] [remoteagent] [info] [172.18.0.2][fcf9d673][ExtensionHostConnection] New connection established.
+[2023-07-21 22:15:10.877] [remoteagent] [info] [172.18.0.2][fcf9d673][ExtensionHostConnection] <204> Launched Extension Host Process.
+[2023-07-21 22:15:33.093] [remoteagent] [info] [172.18.0.2][30da7b2e][ManagementConnection] New connection established.
+[2023-07-21 22:15:36.812] [remoteagent] [info] [172.18.0.2][398da42e][ExtensionHostConnection] New connection established.
+[2023-07-21 22:15:36.827] [remoteagent] [info] [172.18.0.2][398da42e][ExtensionHostConnection] <311> Launched Extension Host Process.
+[2023-07-21 22:15:50.298] [remoteagent] [info] Getting Manifest... batisteo.vscode-django
+[2023-07-21 22:15:50.299] [remoteagent] [info] Getting Manifest... wholroyd.jinja
+[2023-07-21 22:15:50.299] [remoteagent] [info] Getting Manifest... formulahendry.code-runner
+[2023-07-21 22:15:51.132] [remoteagent] [info] Getting Manifest... ms-python.python
+[2023-07-21 22:15:51.699] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2023-07-21 22:15:51.717] [remoteagent] [info] Installing extension: wholroyd.jinja
+[2023-07-21 22:15:51.725] [remoteagent] [info] Installing extension: batisteo.vscode-django
+[2023-07-21 22:15:52.762] [remoteagent] [info] Installing extension: ms-python.python
+[2023-07-21 22:15:54.086] [remoteagent] [info] Downloaded extension: wholroyd.jinja /config/data/CachedExtensionVSIXs/wholroyd.jinja-0.0.8-universal
+[2023-07-21 22:15:54.117] [remoteagent] [info] Extracted extension to /config/extensions/.7bba7d73-2f09-41b2-9bbb-06ee922d2e16: wholroyd.jinja
+[2023-07-21 22:15:54.121] [remoteagent] [info] Renamed to /config/extensions/wholroyd.jinja-0.0.8-universal
+[2023-07-21 22:15:54.123] [remoteagent] [info] Extracting completed. wholroyd.jinja
+[2023-07-21 22:15:54.124] [remoteagent] [info] Extension installed successfully: wholroyd.jinja
+[2023-07-21 22:15:54.603] [remoteagent] [info] Downloaded extension: batisteo.vscode-django /config/data/CachedExtensionVSIXs/batisteo.vscode-django-1.8.0-universal
+[2023-07-21 22:15:54.750] [remoteagent] [info] Extracted extension to /config/extensions/.ead745aa-abc1-4f3a-a351-97f488d68253: batisteo.vscode-django
+[2023-07-21 22:15:54.755] [remoteagent] [info] Renamed to /config/extensions/batisteo.vscode-django-1.8.0-universal
+[2023-07-21 22:15:54.757] [remoteagent] [info] Extracting completed. batisteo.vscode-django
+[2023-07-21 22:15:54.757] [remoteagent] [info] Extension installed successfully: batisteo.vscode-django
+[2023-07-21 22:15:54.770] [remoteagent] [info] Downloaded extension: formulahendry.code-runner /config/data/CachedExtensionVSIXs/formulahendry.code-runner-0.12.0-universal
+[2023-07-21 22:15:54.994] [remoteagent] [info] Getting Manifest... batisteo.vscode-django
+[2023-07-21 22:15:55.086] [remoteagent] [info] Extracted extension to /config/extensions/.0f0e9b38-e1c5-43f7-b019-5cba7aa12e93: formulahendry.code-runner
+[2023-07-21 22:15:55.091] [remoteagent] [info] Renamed to /config/extensions/formulahendry.code-runner-0.12.0-universal
+[2023-07-21 22:15:55.094] [remoteagent] [info] Extracting completed. formulahendry.code-runner
+[2023-07-21 22:15:55.095] [remoteagent] [info] Extension installed successfully: formulahendry.code-runner
+[2023-07-21 22:15:55.621] [remoteagent] [info] Getting Manifest... wholroyd.jinja
+[2023-07-21 22:15:55.621] [remoteagent] [info] Getting Manifest... formulahendry.code-runner
+[2023-07-21 22:15:56.221] [remoteagent] [info] Installing extension: batisteo.vscode-django
+[2023-07-21 22:15:56.312] [remoteagent] [info] Getting Manifest... ms-python.python
+[2023-07-21 22:15:56.492] [remoteagent] [info] Extension installed successfully: batisteo.vscode-django
+[2023-07-21 22:15:56.775] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2023-07-21 22:15:56.838] [remoteagent] [info] Installing extension: wholroyd.jinja
+[2023-07-21 22:15:56.858] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2023-07-21 22:15:57.373] [remoteagent] [info] Extension installed successfully: wholroyd.jinja
+[2023-07-21 22:15:57.378] [remoteagent] [info] Extension installed successfully: formulahendry.code-runner
+[2023-07-21 22:15:57.910] [remoteagent] [info] Extensions is already requested to install ms-python.python
+[2023-07-21 22:15:58.063] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 77
+[2023-07-21 22:15:58.331] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 78
+[2023-07-21 22:15:58.332] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 79
+[2023-07-21 22:15:58.338] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 80
+[2023-07-21 22:15:58.339] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 81
+[2023-07-21 22:15:58.360] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 82
+[2023-07-21 22:15:59.607] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 83
+[2023-07-21 22:15:59.640] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 84
+[2023-07-21 22:15:59.659] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 85
+[2023-07-21 22:15:59.661] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2023-07-21 22:15:59.666] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 86
+[2023-07-21 22:15:59.676] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 87
+[2023-07-21 22:15:59.676] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 88
+[2023-07-21 22:15:59.712] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 89
+[2023-07-21 22:15:59.732] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 90
+[2023-07-21 22:15:59.822] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 91
+[2023-07-21 22:15:59.832] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 92
+[2023-07-21 22:15:59.845] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 93
+[2023-07-21 22:15:59.847] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 94
+[2023-07-21 22:15:59.852] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 95
+[2023-07-21 22:15:59.857] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 96
+[2023-07-21 22:15:59.857] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 97
+[2023-07-21 22:15:59.862] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 98
+[2023-07-21 22:15:59.862] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 99
+[2023-07-21 22:15:59.862] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 100
+[2023-07-21 22:15:59.867] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 101
+[2023-07-21 22:15:59.953] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 102
+[2023-07-21 22:16:00.004] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 103
+[2023-07-21 22:16:00.026] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 104
+[2023-07-21 22:16:00.027] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 105
+[2023-07-21 22:16:00.027] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 106
+[2023-07-21 22:16:00.027] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 107
+[2023-07-21 22:16:00.039] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 108
+[2023-07-21 22:16:00.042] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 109
+[2023-07-21 22:16:00.043] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 110
+[2023-07-21 22:16:00.043] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 111
+[2023-07-21 22:16:00.051] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 112
+[2023-07-21 22:16:00.052] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 113
+[2023-07-21 22:16:00.052] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 114
+[2023-07-21 22:16:00.067] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 115
+[2023-07-21 22:16:00.067] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 116
+[2023-07-21 22:16:00.067] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 117
+[2023-07-21 22:16:00.068] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 118
+[2023-07-21 22:16:00.081] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 119
+[2023-07-21 22:16:00.085] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 120
+[2023-07-21 22:16:00.172] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 121
+[2023-07-21 22:16:00.232] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 122
+[2023-07-21 22:16:00.242] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 123
+[2023-07-21 22:16:00.302] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 124
+[2023-07-21 22:16:00.342] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 125
+[2023-07-21 22:16:00.352] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 126
+[2023-07-21 22:16:00.352] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 127
+[2023-07-21 22:16:00.353] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 128
+[2023-07-21 22:16:00.365] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 129
+[2023-07-21 22:16:00.365] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 130
+[2023-07-21 22:16:00.366] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 131
+[2023-07-21 22:16:00.367] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 132
+[2023-07-21 22:16:00.372] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 133
+[2023-07-21 22:16:00.372] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 134
+[2023-07-21 22:16:00.512] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 135
+[2023-07-21 22:16:00.517] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 136
+[2023-07-21 22:16:00.530] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 137
+[2023-07-21 22:16:00.682] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 138
+[2023-07-21 22:16:00.692] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 139
+[2023-07-21 22:16:00.692] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 140
+[2023-07-21 22:16:00.693] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 141
+[2023-07-21 22:16:00.697] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 142
+[2023-07-21 22:16:00.702] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 143
+[2023-07-21 22:16:00.710] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 144
+[2023-07-21 22:16:00.710] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 145
+[2023-07-21 22:16:00.722] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 146
+[2023-07-21 22:16:00.772] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 147
+[2023-07-21 22:16:00.773] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 148
+[2023-07-21 22:16:00.773] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 149
+[2023-07-21 22:16:00.773] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 150
+[2023-07-21 22:16:00.782] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 151
+[2023-07-21 22:16:00.782] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 152
+[2023-07-21 22:16:00.818] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 153
+[2023-07-21 22:16:00.884] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 154
+[2023-07-21 22:16:00.884] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 155
+[2023-07-21 22:16:00.892] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 156
+[2023-07-21 22:16:00.905] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 157
+[2023-07-21 22:16:00.918] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 158
+[2023-07-21 22:16:00.918] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 159
+[2023-07-21 22:16:00.932] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 160
+[2023-07-21 22:16:00.942] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 161
+[2023-07-21 22:16:01.123] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 162
+[2023-07-21 22:16:01.132] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 163
+[2023-07-21 22:16:01.133] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 164
+[2023-07-21 22:16:01.133] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 165
+[2023-07-21 22:16:01.167] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 166
+[2023-07-21 22:16:01.167] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 167
+[2023-07-21 22:16:01.172] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 168
+[2023-07-21 22:16:01.172] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 169
+[2023-07-21 22:16:01.173] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 170
+[2023-07-21 22:16:01.173] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 171
+[2023-07-21 22:16:01.177] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 172
+[2023-07-21 22:16:01.202] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 173
+[2023-07-21 22:16:01.252] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 174
+[2023-07-21 22:16:01.262] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 175
+[2023-07-21 22:16:01.444] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2023-07-21 22:16:01.744] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 176
+[2023-07-21 22:16:01.749] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 177
+[2023-07-21 22:16:02.720] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2023-07-21 22:16:02.720] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2023-07-21 22:16:02.720] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2023-07-21 22:16:03.737] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 178
+[2023-07-21 22:16:03.738] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 179
+[2023-07-21 22:16:03.738] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 180
+[2023-07-21 22:16:03.738] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 181
+[2023-07-21 22:16:03.738] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 182
+[2023-07-21 22:16:03.738] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 183
+[2023-07-21 22:16:03.738] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 184
+[2023-07-21 22:16:03.738] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 185
+[2023-07-21 22:16:03.738] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 186
+[2023-07-21 22:16:04.475] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.1.0-universal
+[2023-07-21 22:16:04.489] [remoteagent] [info] Extracted extension to /config/extensions/.e393bfe8-27f2-4e82-82da-5eb15f927b0c: ms-toolsai.jupyter-keymap
+[2023-07-21 22:16:04.493] [remoteagent] [info] Renamed to /config/extensions/ms-toolsai.jupyter-keymap-1.1.0-universal
+[2023-07-21 22:16:04.494] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2023-07-21 22:16:05.275] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 187
+[2023-07-21 22:16:05.276] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 188
+[2023-07-21 22:16:05.276] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 189
+[2023-07-21 22:16:05.277] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 190
+[2023-07-21 22:16:05.277] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 191
+[2023-07-21 22:16:05.277] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 192
+[2023-07-21 22:16:05.278] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 193
+[2023-07-21 22:16:05.278] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 194
+[2023-07-21 22:16:05.282] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 195
+[2023-07-21 22:16:05.292] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 196
+[2023-07-21 22:16:05.302] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 197
+[2023-07-21 22:16:06.332] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9-universal
+[2023-07-21 22:16:06.606] [remoteagent] [info] Extracted extension to /config/extensions/.91efd9c1-24cc-4661-944f-0ee9865298aa: ms-toolsai.jupyter-renderers
+[2023-07-21 22:16:06.610] [remoteagent] [info] Renamed to /config/extensions/ms-toolsai.jupyter-renderers-1.0.9-universal
+[2023-07-21 22:16:06.612] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2023-07-21 22:16:06.622] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 198
+[2023-07-21 22:16:06.692] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 199
+[2023-07-21 22:16:06.804] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 200
+[2023-07-21 22:16:06.903] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 201
+[2023-07-21 22:16:07.012] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 202
+[2023-07-21 22:16:07.055] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 203
+[2023-07-21 22:16:07.122] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 204
+[2023-07-21 22:16:07.187] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /config/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.8.1002460559-universal
+[2023-07-21 22:16:07.200] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 205
+[2023-07-21 22:16:07.279] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 206
+[2023-07-21 22:16:07.367] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 207
+[2023-07-21 22:16:07.434] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 208
+[2023-07-21 22:16:08.132] [remoteagent] [info] Extracted extension to /config/extensions/.b7eb4821-cfb9-48b0-a8c5-9ee51da94e33: ms-toolsai.jupyter
+[2023-07-21 22:16:08.139] [remoteagent] [info] Renamed to /config/extensions/ms-toolsai.jupyter-2022.8.1002460559-universal
+[2023-07-21 22:16:08.161] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2023-07-21 22:16:12.514] [remoteagent] [info] Downloaded extension: ms-python.python /config/data/CachedExtensionVSIXs/ms-python.python-2022.16.1-universal
+[2023-07-21 22:16:15.404] [remoteagent] [info] Extracted extension to /config/extensions/.737e7abd-f997-41dc-9a3d-dfd3d12738e4: ms-python.python
+[2023-07-21 22:16:15.414] [remoteagent] [info] Renamed to /config/extensions/ms-python.python-2022.16.1-universal
+[2023-07-21 22:16:15.420] [remoteagent] [info] Extracting completed. ms-python.python
+[2023-07-21 22:16:15.421] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2023-07-21 22:16:15.421] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2023-07-21 22:16:15.421] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2023-07-21 22:16:15.421] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 209
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 210
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 211
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 212
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 213
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 214
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 215
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 216
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 217
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 218
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 219
+[2023-07-21 22:16:22.548] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 220
+[2023-07-21 22:16:22.549] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 221
+[2023-07-21 22:16:22.549] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 222
+[2023-07-21 22:16:22.549] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 223
+[2023-07-21 22:16:22.549] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 224
+[2023-07-21 22:16:22.549] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 225
+[2023-07-21 22:16:22.549] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 226
+[2023-07-21 22:16:22.549] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 227
+[2023-07-21 22:16:22.549] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 228
+[2023-07-21 22:16:22.549] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 229
+[2023-07-21 22:16:22.549] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 230
+[2023-07-21 22:16:23.552] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at c._throwIfNoPty (/app/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:23:36312)","    at c.updateTitle (/app/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:23:32060)","    at Object.call (/app/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:15:8348)","    at u.onPromise (/app/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:14:5845)","    at u.onRawMessage (/app/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:14:5233)","    at /app/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:14:4521","    at _.invoke (/app/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:10:145)","    at A.deliver (/app/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:10:2275)","    at T.fire (/app/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:10:1853)","    at process.Q (/app/code-server/lib/vscode/out/vs/platform/terminal/node/ptyHostMain.js:8:37290)","    at process.emit (node:events:513:28)","    at emit (node:internal/child_process:939:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2023-07-21 22:22:48.589] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 231
+[2023-07-21 22:22:48.589] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 232
+[2023-07-21 22:22:48.589] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 233
+[2023-07-21 22:22:48.589] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 234
+[2023-07-21 22:22:48.589] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 235
+[2023-07-21 22:22:48.589] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 236
+[2023-07-21 22:22:48.590] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 237
+[2023-07-21 22:22:48.590] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 238
+[2023-07-21 22:22:48.590] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 239
+[2023-07-21 22:22:48.590] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 240
+[2023-07-21 22:22:48.590] [remoteagent] [warning] RequestStore#acceptReply was called without receiving a matching request 241
